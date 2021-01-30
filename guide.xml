@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TeleMicro (RD)">
+    <display-name lang="es">TeleMicro (RD)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Teleuniverso. (RD)">
+    <display-name lang="es">Teleuniverso. (RD)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Digital 15 (RD)">
+    <display-name lang="es">Digital 15 (RD)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210129003000 -0600" stop="20210129013000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">De Extremo a Extremo</title>
+  </programme>
+  <programme start="20210129013000 -0600" stop="20210129040000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">Telemicro</title>
+  </programme>
+  <programme start="20210129040000 -0600" stop="20210129050000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">La opción de la mañana</title>
+  </programme>
+  <programme start="20210129050000 -0600" stop="20210129070000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">Matinal</title>
+  </programme>
+  <programme start="20210129070000 -0600" stop="20210129080000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">¡Despierta América</title>
+  </programme>
+  <programme start="20210129080000 -0600" stop="20210129110000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">Curso 1ro de primaria</title>
+  </programme>
+  <programme start="20210129110000 -0600" stop="20210129120000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">Vencer el Desamor</title>
+  </programme>
+  <programme start="20210129120000 -0600" stop="20210129130000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">Dulce de venganza</title>
+  </programme>
+  <programme start="20210129130000 -0600" stop="20210129140000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">Noticias Telemicro</title>
+  </programme>
+  <programme start="20210129140000 -0600" stop="20210129170000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">Curso 5to de secundaria</title>
+  </programme>
+  <programme start="20210129170000 -0600" stop="20210129180000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">Primer impacto</title>
+  </programme>
+  <programme start="20210129180000 -0600" stop="20210129190000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">Serie</title>
+  </programme>
+  <programme start="20210129190000 -0600" stop="20210129200000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">Amor en blanco y negro</title>
+  </programme>
+  <programme start="20210129200000 -0600" stop="20210129210000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">Imperio de Mentiras</title>
+  </programme>
+  <programme start="20210129210000 -0600" stop="20210129220000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">Noticias Telemicro</title>
+  </programme>
+  <programme start="20210129220000 -0600" stop="20210129230000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">El Reperpero</title>
+  </programme>
+  <programme start="20210129230000 -0600" stop="20210129233000 -0600" channel="TeleMicro (RD)">
+    <title lang="es">Noticiero Univisión</title>
+  </programme>
+  <programme start="20210129040000 -0600" stop="20210129063000 -0600" channel="Teleuniverso. (RD)">
+    <title lang="es">La revista</title>
+  </programme>
+  <programme start="20210129063000 -0600" stop="20210129071000 -0600" channel="Teleuniverso. (RD)">
+    <title lang="es">El cafecito</title>
+  </programme>
+  <programme start="20210129071000 -0600" stop="20210129080000 -0600" channel="Teleuniverso. (RD)">
+    <title lang="es">Como en casa - Fin de semana</title>
+  </programme>
+  <programme start="20210129080000 -0600" stop="20210129110000 -0600" channel="Teleuniverso. (RD)">
+    <title lang="es">Clases virtuales Minerd</title>
+  </programme>
+  <programme start="20210129110000 -0600" stop="20210129114700 -0600" channel="Teleuniverso. (RD)">
+    <title lang="es">Ustedes y nosotros</title>
+  </programme>
+  <programme start="20210129114700 -0600" stop="20210129115500 -0600" channel="Teleuniverso. (RD)">
+    <title lang="es">El com</title>
+  </programme>
+  <programme start="20210129115500 -0600" stop="20210129120000 -0600" channel="Teleuniverso. (RD)">
+    <title lang="es">Loto real</title>
+  </programme>
+  <programme start="20210129120000 -0600" stop="20210129133000 -0600" channel="Teleuniverso. (RD)">
+    <title lang="es">Teleuniverso al día</title>
+  </programme>
+  <programme start="20210129133000 -0600" stop="20210129140000 -0600" channel="Teleuniverso. (RD)">
+    <title lang="es">Info-deportivas</title>
+  </programme>
+  <programme start="20210129140000 -0600" stop="20210129170000 -0600" channel="Teleuniverso. (RD)">
+    <title lang="es">Clases virtuales Minerd</title>
+  </programme>
+  <programme start="20210129170000 -0600" stop="20210129180000 -0600" channel="Teleuniverso. (RD)">
+    <title lang="es">Puntos y enfoques</title>
+  </programme>
+  <programme start="20210129180000 -0600" stop="20210129190000 -0600" channel="Teleuniverso. (RD)">
+    <title lang="es">Panorámica</title>
+  </programme>
+  <programme start="20210129190000 -0600" stop="20210129210000 -0600" channel="Teleuniverso. (RD)">
+    <title lang="es">Buena noche</title>
+  </programme>
+  <programme start="20210129210000 -0600" stop="20210129213000 -0600" channel="Teleuniverso. (RD)">
+    <title lang="es">Noticiero Universal</title>
+  </programme>
+  <programme start="20210129213000 -0600" stop="20210129233000 -0600" channel="Teleuniverso. (RD)">
+    <title lang="es">Las noches con Bélgica</title>
+  </programme>
+  <programme start="20210129233000 -0600" stop="20210130060000 -0600" channel="Teleuniverso. (RD)">
+    <title lang="es">Retrasmisión programación regular</title>
+  </programme>
+  <programme start="20210129040000 -0600" stop="20210129070000 -0600" channel="Digital 15 (RD)">
+    <title lang="es">La opción de la mañana</title>
+  </programme>
+  <programme start="20210129070000 -0600" stop="20210129080000 -0600" channel="Digital 15 (RD)">
+    <title lang="es">La revista del 15</title>
+  </programme>
+  <programme start="20210129080000 -0600" stop="20210129110000 -0600" channel="Digital 15 (RD)">
+    <title lang="es">MINERD - Aprendamos en casa - Sexto de secundaria</title>
+  </programme>
+  <programme start="20210129110000 -0600" stop="20210129140000 -0600" channel="Digital 15 (RD)">
+    <title lang="es">De Extremo a Extremo</title>
+  </programme>
+  <programme start="20210129140000 -0600" stop="20210129170000 -0600" channel="Digital 15 (RD)">
+    <title lang="es">MINERD - Aprendamos en casa - Sexto de secundaria</title>
+  </programme>
+  <programme start="20210129170000 -0600" stop="20210129180000 -0600" channel="Digital 15 (RD)">
+    <title lang="es">Propuesta de la noche</title>
+  </programme>
+  <programme start="20210129180000 -0600" stop="20210129190000 -0600" channel="Digital 15 (RD)">
+    <title lang="es">Desafios en Tv</title>
+  </programme>
+  <programme start="20210129190000 -0600" stop="20210129200000 -0600" channel="Digital 15 (RD)">
+    <title lang="es">Los dueños del circo</title>
+  </programme>
+  <programme start="20210129200000 -0600" stop="20210129210000 -0600" channel="Digital 15 (RD)">
+    <title lang="es">La belleza es mia</title>
+  </programme>
+  <programme start="20210129210000 -0600" stop="20210129220000 -0600" channel="Digital 15 (RD)">
+    <title lang="es">El mega show</title>
+  </programme>
+  <programme start="20210129220000 -0600" stop="20210129230000 -0600" channel="Digital 15 (RD)">
+    <title lang="es">QTV</title>
+  </programme>
+  <programme start="20210129230000 -0600" stop="20210130050000 -0600" channel="Digital 15 (RD)">
+    <title lang="es">Bloque de repeticiones</title>
+  </programme>
+</tv>
